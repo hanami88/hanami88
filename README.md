@@ -1,4 +1,4 @@
-# Hi 👋, I'm Anh Luan
+# Konnichiwa 👋, I'm Anh Luan
 
 A passionate developer from Vietnam 🇻🇳  
 
