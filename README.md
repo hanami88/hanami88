@@ -44,6 +44,7 @@ A passionate developer from Vietnam 🇻🇳
 
 ### **Databases**  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
 ---
@@ -51,3 +52,8 @@ A passionate developer from Vietnam 🇻🇳
 ### **Tools & Deployment**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonwebservices&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-0A0A0A?style=flat&logo=deepseek&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=flat&logo=x&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-111111?style=flat&logo=anthropic&logoColor=white)
